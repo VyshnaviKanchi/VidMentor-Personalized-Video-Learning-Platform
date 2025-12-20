@@ -2,4 +2,6 @@
 an application that adapts to a student's preference and allow students to watch educational videos without getting distracted.
 
 # Hello
-oiii
+Hi
+Had Breakfast
+
