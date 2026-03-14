@@ -1,0 +1,12 @@
+Python 3.x – Used as the main programming language to implement the system logic and recommendation algorithms.
+Streamlit – Used to build the interactive web interface for registration, login, and video recommendations.
+MySQL – Used as the database to store student details, preferences, videos, watch history, and feedback.
+NumPy – Used for numerical computations and matrix operations in recommendation algorithms.
+Pandas – Used for handling and processing datasets in a structured format.
+Scikit-learn – Used to implement the Random Forest machine learning model for predicting video ratings.
+bcrypt – Used to securely encrypt user passwords before storing them in the database.
+mysql-connector – Used to connect the Python application with the MySQL database and perform database operations.
+Algorithms Used:
+Content-Based Filtering:Recommends videos based on the student's preferences such as subject, difficulty level, and learning pace. The system compares user preferences with video attributes to generate recommendations.
+Matrix Factorization:A collaborative filtering technique that analyzes ratings provided by students and predicts ratings for videos that have not yet been watched.
+Random Forest:A machine learning model used to predict video ratings based on features like subject, difficulty level, and video duration.
